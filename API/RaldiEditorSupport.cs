@@ -33,7 +33,7 @@ namespace Raldi.API
         public static void AddContent(EditorMode mode, bool vanillaCompliant)
         {
             AssetManager assetMan = Plugin.assetMan;
-            //EditorInterfaceModes.AddToolToCategory(mode, "rooms", new RoomTool($"{Plugin.bnpcName}NPC_Room", "Editor_MrBeast_Room".GetSprite(folder: "Editor")));
+            //EditorInterfaceModes.AddToolToCategory(mode, "rooms", new RoomTool($"{Plugin.bnpcName}NPC_Room", "Editor_MrBeast_Room".GetSprite(folder: "Editor"))); - it broke because of 0.13 ;_;
             EditorInterfaceModes.AddToolToCategory(mode, "npcs", new NPCTool(Plugin.bnpcName, "Editor_MrBeast_NPC".GetSprite(folder: "Editor")));
             EditorInterfaceModes.AddToolToCategory(mode, "items", new ItemTool(creditName, Plugin.Instance._CreditCard.itemSpriteSmall));
             EditorInterfaceModes.AddToolToCategory(mode, "items", new ItemTool(beastQuarterName, Plugin.Instance._BeastQuarter.itemSpriteSmall));

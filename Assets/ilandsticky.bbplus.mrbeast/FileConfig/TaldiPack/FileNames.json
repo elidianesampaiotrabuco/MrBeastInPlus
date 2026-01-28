@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "key": "snd_glock_shoot",
+            "value": "shoot.ogg"
+        },
+        {
+            "key": "snd_glock_reload",
+            "value": "reload.ogg"
+        },
+        {
+            "key": "snd_glock_stun",
+            "value": "stun.ogg"
+        },
+        {
+            "key": "snd_nope",
+            "value": "nope.ogg"
+        },
+        {
+            "key": "mus_theft",
+            "value": "theft.ogg"
+        },
+        {
+            "key": "mus_theme",
+            "value": "taldibeast.ogg"
+        },
+        {
+            "key": "mus_chase",
+            "value": "mrbeastlovania.ogg"
+        },
+        {
+            "key": "vo_beast_stole",
+            "value": "whothefuckstolecreditcard.ogg"
+        },
+        {
+            "key": "vo_beast_whyhave",
+            "value": "whydoyouhavemycard.ogg"
+        },
+        {
+            "key": "vo_beast_wait",
+            "value": "waitasecond.ogg"
+        },
+        {
+            "key": "vo_beast_challenge",
+            "value": "myyoutubechallenge.ogg"
+        },
+        {
+            "key": "vo_beast_won",
+            "value": "wonchallenge.ogg"
+        },
+        {
+            "key": "vo_beast_intro",
+            "value": "trapped100subscribers.ogg"
+        },
+        {
+            "key": "vo_beast_explorer",
+            "value": "explorer_beast.ogg"
+        },
+        {
+            "key": "spr_indicator_hear",
+            "value": "Beasticator_Hear.png"
+        },
+        {
+            "key": "spr_indicator_idle",
+            "value": "Beasticator_Normal.png"
+        },
+        {
+            "key": "spr_bullet",
+            "value": "bullet.png"
+        },
+        {
+            "key": "spr_challengegauge",
+            "value": "challengegauge.png"
+        },
+        {
+            "key": "spr_circle",
+            "value": "circle.png"
+        },
+        {
+            "key": "spr_MrBeast",
+            "value": "beast_taldi.png"
+        },
+        {
+            "key": "spr_mrbeast_poster",
+            "value": "mrbeast_poster.png"
+        },
+        {
+            "key": "spr_creditcard_big",
+            "value": "CreditCardBig.png"
+        },
+        {
+            "key": "spr_creditcard_small",
+            "value": "CreditCardSmall.png"
+        },
+        {
+            "key": "spr_glock_big",
+            "value": "glock_itm_big.png"
+        },
+        {
+            "key": "spr_glock_small",
+            "value": "glock_itm_small.png"
+        },
+        {
+            "key": "spr_quarter_big",
+            "value": "quarter_big.png"
+        },
+        {
+            "key": "spr_quarter_small",
+            "value": "quarter_small.png"
+        }
+    ]
+}

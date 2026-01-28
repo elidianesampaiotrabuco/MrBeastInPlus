@@ -1,0 +1,57 @@
+{"items":[
+
+    {"key": "CreditCard", "value": "Credit Card"},
+    {"key": "Desc_CreditCard", "value": "MrBeast's very important Credit Card. Get 250 points stealing it in 25 seconds and not getting fully caught by Mr.Beast."},
+
+    {"key": "ITM_Quarter", "value": "Beast Quarter"},
+    {"key": "Desc_Quarter", "value": "A duplicate of quarter from MrBeast.\n Just like the normal quarter,\n it share the same use functions"},
+    
+    {"key": "ITM_Glock (1)", "value": "Glock (1)"},
+    {"key": "ITM_Glock (2)", "value": "Glock (2)"},
+    {"key": "ITM_Glock (3)", "value": "Glock (3)"},
+    {"key": "ITM_Glock (4)", "value": "Glock (4)"},
+    {"key": "ITM_Glock (5)", "value": "Glock (5)"},
+    {"key": "Desc_Glock", "value": "<b>STOP</b> anything that can move in your way for 15 seconds!\n Best way to get out from danger!"},
+
+    {"key": "Glock_Shoot", "value": "*SHOOT*"},
+    {"key": "Glock_Reload", "value": "*RELOAD*"},
+    {"key": "Glock_Stun", "value": "*Stun*"},
+
+    {"key": "Sub_NOPE", "value": "*NOPE*"},
+
+    {"key": "Mus_Theft_Sub", "value": "*"},
+
+    {"key": "MrBeast", "value": "MrBeast"},
+    {"key": "PST_PRI_MrBeast1", "value": "MrBeast"},
+    {"key": "PST_PRI_MrBeast2_Variant1", "value": "\"I burned down the Eiffel Tower, and bought Paris a new one!\" "},
+    {"key": "PST_PRI_MrBeast2_Variant2", "value": "\"I burned down all the Playtime's jumpropes, and bought her a gold one!\" "},
+    {"key": "PST_PRI_MrBeast2_Variant3", "value": "\"I accidentally burned down the last notebook.. had to buy Baldi a new school to get one again!\""},
+    {"key": "PST_PRI_MrBeast2_Variant4", "value": "\"I broke all of Baldi's rulers and bought him a gold one! He's still trying to slap everyone to death though..\""},
+    {"key": "PST_PRI_MrBeast2_Variant5", "value": "\"I definitely did NOT burn down the Eiffel Tower... and I certainly did NOT have to buy Paris a new one.\""},
+    {"key": "PST_PRI_MrBeast2_Variant6", "value": "\"I burned everyone I trapped in the Baldi's Basics, and bought them their non-trapped copies!\""},
+    {"key": "PST_PRI_MrBeast2_Variant7", "value": "\"I burned down <b>everything</b>, and never replaced any of it.\""},
+    {"key": "PST_PRI_MrBeast2_Variant8", "value": "\"I burned down my Credit Card and then said someone stole it..\""},
+    {"key": "PST_PRI_MrBeast2_Variant9", "value": "\"I went through EVERYTHING in the schoolhouse and swapped it with my credit cards!\""},
+    {"key": "PST_PRI_MrBeast2_Variant10", "value": "\"I burned down the Principal Office, and gave everyone free items!\""},
+    {"key": "PST_PRI_MrBeast2_Variant11", "value": "\"I burned down something and bought it to someone. What it was? I forgor 💀...\""},
+    {"key": "PST_PRI_MrBeast2_Variant12", "value": "\"WHY am I burning something down? And for HOW LONG?! I dont need that! Its 'camp'ing time!\""},
+    {"key": "PST_PRI_MrBeast2_Variant13", "value": "after being kicked out for his drama, he set up camp here! Weirdly not aggressive even after that."},
+    {"key": "PST_PRI_MrBeast2_Variant14", "value": "\"best camp? more like BEAST camp! not funny?..\""},
+    {"key": "PST_PRI_MrBeast2_Variant15", "value": "Set up camp here after being kicked out for his drama. Tries his best to not being kicked out again."},
+    {"key": "PST_PRI_MrBeast2_Variant16", "value": "Hoping that everything will be good hiding in his \"camp\". Gives items to ones who keep being in his circle for some time."},
+    {"key": "PST_PRI_MrBeast2_Variant17", "value": "was kicked out for his drama, but decided to set up camp here! still not aggressive after that"},
+    {"key": "PST_PRI_MrBeast2_Variant18", "value": "\"The last one to stop reading this descriptions will won a... wait a second you all are already reading that\""},
+    {"key": "PST_PRI_MrBeast2_Variant19", "value": "\"The last one who leaves the circle gets a random item! Where is it? you only once you find me.. or not..\""},
+    {"key": "PST_PRI_MrBeast2_Variant20", "value": "\"The last one who DESTROYS THE GAME wins a NULL plushie!\""},
+    {"key": "PST_PRI_MrBeast2_Variant21", "value": "Hopes for better future giving random items. But.. something is wrong..."},
+
+    {"key": "MrBeast_STOLE", "value": "WHO THE *dolphin sounds* JUST STOLE MY CREDIT CARD? I WILL FIND YOU."},
+    {"key": "MrBeast_WHYHAVE", "value": "CREDIT CARD.. I'LL GET YOU."},
+    {"key": "MrBeast_Wait", "value": "Whoa! Wait a second.. Is that mine.."},
+    {"key": "MrBeast_ChallengeInvite", "value": "Hey, do you want to participate, in my youtube challenge?"},
+    {"key": "MrBeast_Won", "value": "Congrats! You won my challenge, here is your prize, see ya next video!"},
+    {"key": "MrBeast_Confused", "value": "WHAT."},
+    {"key": "MrBeast_ChallengeIntro", "value": "I trapped my subscribers in Baldi's Basics Plus. Last one to leave that circle gets a random item."},
+    {"key": "MrBeast_Explorer", "value": "Gotcha! But since this is Explorer Mode, I'll just take some points. DONT EVER DO THAT SHIT AGAIN"}
+
+]}

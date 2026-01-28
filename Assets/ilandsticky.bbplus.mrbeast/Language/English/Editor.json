@@ -1,0 +1,17 @@
+{"items":[
+
+{"key":"Ed_Tool_room_MrBeastNPC_Room_Title","value":"MrBeast's Room"},
+{"key":"Ed_Tool_room_MrBeastNPC_Room_Desc","value":"MrBeast's default room. Has nothing interesting except its visuals and a different color on the map."},
+
+{"key":"Ed_Tool_item_CreditCard_Desc","value":"MrBeast's very important Credit Card. He usually leaves it in a random spot but may not if you decide to place it in weird places."},
+{"key":"Ed_Tool_item_BeastQuarter_Desc","value":"Simple duplicate of \"Quarter\" item but named by other name. Just if anybody wants to have a quarter named \"Beast Quarter\", it is here."},
+{"key":"Ed_Tool_item_Glock (1)_Desc","value":"Stop 1 NPC in your way for 15 seconds! Comes with only 1 ammo, enough for one npc. The worst one."},
+{"key":"Ed_Tool_item_Glock (2)_Desc","value":"Stop some enemies in your way for 15 seconds. Comes with 2 ammo. Good but can be better if it had more ammo."},
+{"key":"Ed_Tool_item_Glock (3)_Desc","value":"Stop half of enemies in your way for 15 seconds with 3 ammo. A medium one, enough for ~4 npcs."},
+{"key":"Ed_Tool_item_Glock (4)_Desc","value":"Stop most of enemies in your way for 15 seconds with 4 ammo. Almost full."},
+{"key":"Ed_Tool_item_Glock (5)_Desc","value":"Stop <b>anything</b> for entire 15 seconds with 5 AMMO! Fully full."},
+
+{"key":"Ed_Poster_Title_mrbeast_poster","value":"MrBeast's Poster"},
+{"key":"Ed_Poster_Desc_mrbeast_poster","value":"MrBeast's Poster in the office."}
+
+]}

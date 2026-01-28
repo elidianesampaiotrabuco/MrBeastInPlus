@@ -11,13 +11,13 @@ using UnityEngine;
 
 namespace Raldi
 {
-    public static class IvanLomAPI
+    public static class IvanLomAPI // Also referred to as StickyAPI, because of the port i'll work on
     {
         public static void LoadNPC(this CustomNPC character, Sprite sprite, SoundObject music, float speed = 12f)
         {
             if (character == null)
             {
-                Debug.LogError("NullReferenceException: The custom character is null!");
+                Debug.LogError("Custom NPC is null");
                 return;
             }
 
@@ -47,7 +47,7 @@ namespace Raldi
         {
             if (character == null)
             {
-                Debug.LogError("NullReferenceException: The custom character is null!");
+                Debug.LogError("Custom NPC is null");
                 return;
             }
             CustomLevelObject[] levelObjects = sceneObject.GetCustomLevelObjects();
@@ -66,7 +66,7 @@ namespace Raldi
         {
             if (itm == null)
             {
-                Debug.LogError("NullReferenceException: The custom item is null!");
+                Debug.LogError("Custom item is null");
                 return;
             }
             CustomLevelObject[] levelObjects = sceneObject.GetCustomLevelObjects();
@@ -94,7 +94,7 @@ namespace Raldi
         {
             if (itm == null)
             {
-                Debug.LogError("NullReferenceException: The custom item is null!");
+                Debug.LogError("Custom item is null");
                 return;
             }
             CustomLevelObject[] levelObjects = sceneObject.GetCustomLevelObjects();
@@ -141,7 +141,7 @@ namespace Raldi
             SoundObject sound = Plugin.assetMan.Get<SoundObject>(soundName);
             if (sound == null)
             {
-                Debug.LogError("NullReferenceException: The custom sound is null!");
+                Debug.LogError("Custom SoundObject is null");
                 return null;
             }
             return sound;
@@ -174,7 +174,7 @@ namespace Raldi
             Sprite spr = Plugin.assetMan.Get<Sprite>(spriteName);
             if (spr == null)
             {
-                Debug.LogError("NullReferenceException: The custom sprite is null!");
+                Debug.LogError("Custom sprite is null");
                 return null;
             }
             return spr;
@@ -194,7 +194,7 @@ namespace Raldi
             Texture2D t = Plugin.assetMan.Get<Texture2D>(spriteName);
             if (t == null)
             {
-                Debug.LogError("NullReferenceException: The custom texture is null!");
+                Debug.LogError("Custom texture is null");
                 return null;
             }
             return t;
@@ -212,7 +212,7 @@ namespace Raldi
 
             if (spriteShader == null)
             {
-                Debug.LogError("damn it, the shader wasn't found");
+                Debug.LogError("Failed to find shader");
                 return null;
             }
 

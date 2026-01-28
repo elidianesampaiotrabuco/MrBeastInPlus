@@ -305,7 +305,7 @@ namespace Raldi
                 int useCount = i + 1;
                 itemVersions[i] = new ItemBuilder(Info)
     .SetEnum($"Glock ({useCount})").SetNameAndDescription("ITM_Glock (" + useCount + ")", "Desc_Glock")
-    .SetShopPrice(350).SetGeneratorCost(350).SetItemComponent<ITM_Glock>().SetSprites("spr_glock_small".GetSprite(), "spr_glock_big".GetSprite())
+    .SetShopPrice(400).SetGeneratorCost(400).SetItemComponent<ITM_Glock>().SetSprites("spr_glock_small".GetSprite(), "spr_glock_big".GetSprite())
     .SetMeta(ItemFlags.CreatesEntity, []).Build();
 
                 assetMan.Add($"Glock (" + useCount + ")", itemVersions[i]);

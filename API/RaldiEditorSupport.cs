@@ -27,10 +27,6 @@ namespace Raldi.API
             loaderPlugin.selectableTextures.Add(roomTextures[1]);
             loaderPlugin.selectableTextures.Add(roomTextures[2]);
             EditorInterface.AddNPCVisual(Plugin.bnpcName, beastNPC);
-            EditorLevelData.AddDefaultTextureAction((Dictionary<string, TextureContainer> dict) =>
-            {
-                dict.Add($"{Plugin.bnpcName}NPC_Room", new TextureContainer(roomTextures[0], roomTextures[1], roomTextures[2]));
-            });
             EditorInterfaceModes.AddModeCallback(AddContent);
         }
 

@@ -56,7 +56,7 @@ namespace Raldi.NPCs
 
             if (plugin == null)
             {
-                Debug.LogError("\"il.modded.raldi.Plugin\" was not found.");
+                Debug.LogError("\"ilandsticky.bbplus.mrbeast\" was not found. Stop using the BB+ mod manager, it dosen't install mods correctly.");
                 return;
             }
             itemToShit = plugin._BeastQuarter;

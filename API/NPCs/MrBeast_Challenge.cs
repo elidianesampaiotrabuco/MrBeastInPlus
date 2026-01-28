@@ -140,13 +140,13 @@ namespace Raldi.NPCs
         {
             if (suitableItems == null)
             {
-                suitableItems = ItemMetaStorage.Instance.GetAllWithoutFlags(ItemFlags.Persists | ItemFlags.RuntimeItem | ItemFlags.NoUses | ItemFlags.InstantUse);
+                suitableItems = ItemMetaStorage.Instance.GetAllWithoutFlags(ItemFlags.Persists | ItemFlags.NoUses | ItemFlags.InstantUse);
             }
 
             validItems.Clear();
             foreach (var meta in suitableItems)
             {
-                if (meta.itemObjects != null && meta.flags != ItemFlags.InstantUse && meta.flags != ItemFlags.RuntimeItem && meta.flags != ItemFlags.NoUses && meta.flags != ItemFlags.Persists)
+                if (meta.itemObjects != null && meta.flags != ItemFlags.InstantUse && meta.flags != ItemFlags.NoUses && meta.flags != ItemFlags.Persists)
                 {
                     foreach (var itemObj in meta.itemObjects)
                     {

@@ -212,7 +212,7 @@ namespace Raldi
 
             if (spriteShader == null)
             {
-                Debug.LogError("Failed to find shader");
+                Debug.LogError("Unable to find shader");
                 return null;
             }
 
